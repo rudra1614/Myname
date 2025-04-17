@@ -1,0 +1,5 @@
+Requirement:
+Fpdf For generating Pdf report after completion of the scan
+how to import:
+use this command in command prompt to install the package
+pip install fpdf
